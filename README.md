@@ -1,2 +1,1 @@
-# isomorphic-git
-Test Repo for isomorphic-git
+Very short README
